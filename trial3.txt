@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My name is rajneesh yadav
 My friend is rohan
+=======
+My name is rajneesh Agarwal
+>>>>>>> child4
