@@ -1,0 +1,8 @@
+Writing in master -> 
+My Name is Rajneesh Yadav
+My Friend is Rohan Jain
+
+
+Writing in Child ->
+I have a laptop.
+I am doing dinner.

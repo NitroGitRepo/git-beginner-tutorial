@@ -1,0 +1,17 @@
+My Name is rahul
+---
+git init
+git add
+git commit
+git status
+git log
+git diff
+git branch
+
+
+I am writing this line in branch main 
+
+I am teaching at scaler
+
+
+Changes performed in work_experience
